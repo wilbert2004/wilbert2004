@@ -24,8 +24,9 @@
 </ul>
 </div>
 
+<h1>My Skills Incluide</h1>
 <div>
-  <h2>My Skills Incluide</h2>
+  <h2>📋 Languages</h2>
   <ul>
     <li>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </li>
