@@ -81,8 +81,10 @@
 </div>
 <br>
 
-<strong>📊 My Github Stats :</strong><br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kathryn-Jie&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kathryn-Jie&theme=radical&hide_border=true"/><br><br>
+<h2>GitHub Stats:</h2>
+
+[![](https://github-readme-stats.vercel.app/api?username=wilbert2004&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/wilbert2004)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=wilbert2004&theme=material-palenight)](https://github.com/wilbert2004)
+
 
 
